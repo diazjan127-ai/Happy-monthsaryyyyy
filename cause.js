@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Also I just want to say thank you for everything, thank you for the love, and the trust. I know I'm not a perfect boyfriend to you, and sometimes we don't understand each other but always rememver that I'm always here for you no matter what happen. ✨ ", 
+        text: "Also I just want to say thank you for everything, thank you for the love, and the trust. I know I'm not a perfect boyfriend to you, and sometimes we don't understand each other but always remember that I'm always here for you no matter what happen. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
